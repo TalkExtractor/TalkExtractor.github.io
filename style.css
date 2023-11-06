@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    padding: 0;
+  }
+  
+  
+  h1 {
+    font-size: 30px;
+    margin: 20px 0;
+  }
+  
+  h2 {
+    font-size: 25px;
+    margin: 20px 0;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin: 10px 0;
+  }
+
+  p {
+    font-size:18px;
+  }
+  p.padding
+{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+  ul{
+    font-size:18px;
+  }
+
+  
